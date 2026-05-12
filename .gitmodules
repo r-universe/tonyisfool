@@ -5,3 +5,6 @@
 [submodule "DataDNA"]
 	path = DataDNA
 	url = https://github.com/tonyisfool/datadna
+[submodule "TidyPanel"]
+	path = TidyPanel
+	url = https://github.com/tonyisfool/tidypanel
